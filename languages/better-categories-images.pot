@@ -1,0 +1,65 @@
+# Copyright (C) 2018 phoenixdigi
+# This file is distributed under the same license as the phoenixdigi package.
+msgid ""
+msgstr ""
+"Project-Id-Version: phoenixdigi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Phoenix Digi Việt Nam <https://phoenixdigi.vn>\n"
+"Last-Translator: Phoenix Digi Việt Nam <https://phoenixdigi.vn>\n"
+"Report-Msgid-Bugs-To: http://phoenixdigi.vn\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/class-better-categories-images.php:49, ../includes/class-better-categories-images.php:58
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ../includes/class-better-categories-images.php:166, ../includes/class-better-categories-images.php:262, ../includes/class-better-categories-images.php:384
+msgid "Thumbnail"
+msgstr ""
+
+#: ../includes/class-better-categories-images.php:170, ../includes/class-better-categories-images.php:267
+msgid "Upload/Add image"
+msgstr ""
+
+#: ../includes/class-better-categories-images.php:171, ../includes/class-better-categories-images.php:268
+msgid "Remove image"
+msgstr ""
+
+#: ../includes/class-better-categories-images.php:195, ../includes/class-better-categories-images.php:292
+msgid "Choose an image"
+msgstr ""
+
+#: ../includes/class-better-categories-images.php:197, ../includes/class-better-categories-images.php:294
+msgid "Use image"
+msgstr ""
+
+#: ../includes/class-better-categories-images.php:354
+msgid "Image"
+msgstr ""
+
+#: ../includes/class-better-categories-images.php:396, ../includes/class-better-categories-images.php:402
+msgid "Better Categories Images settings"
+msgstr ""
+
+#: ../includes/class-better-categories-images.php:396, ../includes/class-better-categories-images.php:448
+msgid "Better Categories Images"
+msgstr ""
+
+#: ../includes/class-better-categories-images.php:403
+msgid "Excluded Taxonomies"
+msgstr ""
+
+#: ../includes/class-better-categories-images.php:420
+msgid "Please select the taxonomies you want to exclude it from Better Categories Images plugin"
+msgstr ""
+
+#: ../includes/class-better-categories-images.php:443
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
